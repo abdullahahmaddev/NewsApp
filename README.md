@@ -1,4 +1,4 @@
-# News Application.
+# News Application...
 
 ![featured](https://github.com/Imen-ks/NewsApp/blob/main/NewsApp/Assets.xcassets/News.png)
 
